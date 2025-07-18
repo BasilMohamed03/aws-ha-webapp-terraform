@@ -27,7 +27,7 @@ The infrastructure consists of the following components, deployed across two Ava
 * **State Management:**
     * Terraform's state is stored remotely and securely in an S3 bucket with state locking via DynamoDB.
 
-![Architecture Diagram](diagram.jpg)
+![Architecture Diagram](Screenshot/diagram.jpg)
 
 ---
 
