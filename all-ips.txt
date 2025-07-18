@@ -1,0 +1,3 @@
+# Public IPs of Proxy Servers
+public-ip1  44.222.242.28
+public-ip2  54.234.182.252
