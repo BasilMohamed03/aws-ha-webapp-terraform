@@ -45,7 +45,7 @@ Before you begin, ensure you have the following:
 
 1.  **Clone the Repository:**
     ```
-    git clone [https://github.com/YourUsername/aws-ha-webapp-terraform.git](https://github.com/YourUsername/aws-ha-webapp-terraform.git)
+    git clone https://github.com/BasilMohamed03/aws-ha-webapp-terraform.git
     cd aws-ha-webapp-terraform
     ```
 2.  **Configure the S3 Backend:**
